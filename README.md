@@ -1,1 +1,1 @@
-# Time-series-and-Twitter
+#Sentiment Analysis of Twitter Data for Predicting Stock Market Movements
